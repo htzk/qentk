@@ -20,7 +20,7 @@ https://github.com/qulacs/qulacs
 
 ## Usage
 
-see [sample_regression.py](https://github.com/htzk/qentk/blob/main/sample_regression.py)
+see [sample_regression.py](https://github.com/htzk/qentk/blob/main/sample_regression.py) and [sample_class.py](https://github.com/htzk/qentk/blob/main/sample_class.py)
 
 ```python
 ## set params ##
