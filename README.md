@@ -3,7 +3,7 @@
 We propose a quantum-classical nerural network (qcNN), shown in Fig.1 or Fig.2 (b), and analyszed the machine learning performance compared to other conventional models shown in Fig.2 (c) and (d).
 The python source codes shared in this page is used for "Section IV-C. Advantage of qcNN over full-classical and full-quantum models".
 
-![single thread benchmark](https://github.com/htzk/qentk/blob/main/Fig1.pdf)
+![single thread benchmark](./Fig1.pdf)
 
 ## Requirements
 
