@@ -12,4 +12,9 @@ The python source codes shared in this page is used for "Section IV-C. Advantage
 |Torch|1.9.1|
 |numpy|1.23.3|
 
+Qulacs is a Python/C++ library for fast simulation of large, noisy, or parametric quantum circuits, developed by QunaSys, Osaka University and NTT.
+https://github.com/qulacs/qulacs
 
+## Usage
+
+see 
