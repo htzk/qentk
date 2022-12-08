@@ -20,5 +20,13 @@ https://github.com/qulacs/qulacs
 ## Usage
 
 see [sample_regression.py](https://github.com/htzk/qentk/blob/main/sample_regression.py)
+```python
+## set params ##
+seed    = 0
+n0      = 1000 # the number of nodes of classical neural network
+M_train = 1000 # the number of training data
+it_end  = 1000 # the number of training iteration
+```
+
 
 ![single thread benchmark](https://github.com/htzk/qentk/blob/main/Fig2.pdf)
