@@ -3,7 +3,8 @@
 We propose a quantum-classical nerural network (qcNN), shown in Fig.1 or Fig.2 (b), and analyszed the machine learning performance compared to other conventional models shown in Fig.2 (c) and (d).
 The python source codes shared in this page is used for "Section IV-C. Advantage of qcNN over full-classical and full-quantum models".
 
-![single thread benchmark](./Fig1.pdf)
+![Fig.1](https://github.com/htzk/qentk/blob/main/Fig2.pdf)
+![Fig.2](https://github.com/htzk/qentk/blob/main/Fig2.pdf)
 
 ## Requirements
 
@@ -20,6 +21,7 @@ https://github.com/qulacs/qulacs
 ## Usage
 
 see [sample_regression.py](https://github.com/htzk/qentk/blob/main/sample_regression.py)
+
 ```python
 ## set params ##
 seed    = 0
@@ -28,5 +30,9 @@ M_train = 1000 # the number of training data
 it_end  = 1000 # the number of training iteration
 ```
 
-
-![single thread benchmark](https://github.com/htzk/qentk/blob/main/Fig2.pdf)
+About simulation time:
+The calculation time is heavily depending on the model and parameter settings.
+Typical time is as follows with our environment.
+  qcNN and qNN is fast; 5 ~ 15 sec. for (n0, M_train, it_end, #qubit)=(1000, 1000, 1000, 2)
+  qNN takes much longer time; 5 min. for (n0, M_train, it_end, #qubit)=(100, 100, 100, 2)
+It increase linerly with n0, M_train and it_end, and exponentially with #qubit.
