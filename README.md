@@ -30,7 +30,7 @@ M_train = 1000 # the number of training data
 it_end  = 1000 # the number of training iteration
 ```
 
-About simulation time:
+About simulation time: \\
 The calculation time is heavily depending on the model and parameter settings.
 Typical time is as follows with our environment.
   qcNN and qNN is fast; 5 ~ 15 sec. for (n0, M_train, it_end, #qubit)=(1000, 1000, 1000, 2)
