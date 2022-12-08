@@ -35,4 +35,4 @@ The calculation time is heavily depending on the model and parameter settings.
 Typical time is as follows with our environment.  
   qcNN and qNN is fast; 5 ~ 15 sec. for (n0, M_train, it_end, #qubit)=(1000, 1000, 1000, 2)  
   qNN takes much longer time; 5 min. for (n0, M_train, it_end, #qubit)=(100, 100, 100, 2)  
-It increase linerly with n0, M_train and it_end, and exponentially with #qubit.
+It increases linearly with n0, M_train and it_end, and exponentially with #qubit.
