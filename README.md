@@ -19,6 +19,6 @@ https://github.com/qulacs/qulacs
 
 ## Usage
 
-see 
+see [sample_regression.py](https://github.com/htzk/qentk/blob/main/sample_regression.py)
 
 ![single thread benchmark](https://github.com/htzk/qentk/blob/main/Fig2.pdf)
