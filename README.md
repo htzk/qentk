@@ -1,6 +1,6 @@
 # Quantum-enhanced neural networks in the neural tangent kernel framework
 
-We propose the quantum-classical nerural network (qcNN), shown in Fig.1.
+We propose a quantum-classical nerural network (qcNN), shown in Fig.1 (b), and analyszed the machine learning performance compared to other conventional models shown in Fig.1 (c) and (d).
 The python source codes shared in this page is used for "Section IV-C. Advantage of qcNN over full-classical and full-quantum models".
 
 ## Requirements
