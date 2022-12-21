@@ -4,7 +4,9 @@ We propose a quantum-classical nerural network (qcNN), shown in Fig.1 or Fig.2 (
 The python source codes shared in this page is used for "Section IV-C. Advantage of qcNN over full-classical and full-quantum models".
 
 ![Fig.1](https://github.com/htzk/qentk/blob/main/Fig1.png)
+*Fig.1: Overview of the proposed qcNN*
 ![Fig.2](https://github.com/htzk/qentk/blob/main/Fig2.png)
+*Fig.2: Models*
 
 ## Requirements
 
