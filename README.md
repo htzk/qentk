@@ -5,12 +5,10 @@ The python source codes shared in this page is used for "Section IV-C. Advantage
 
 <p align="center">
 <img src="https://github.com/htzk/qentk/blob/main/FIG1.JPG" width="700">
-</p>
 Fig.1: Overview of the proposed qcNN
-<p align="center">
 <img src="https://github.com/htzk/qentk/blob/main/FIG2.JPG" width="700">
-</p>
 Fig.2: Models
+</p>
 
 ## Requirements
 
